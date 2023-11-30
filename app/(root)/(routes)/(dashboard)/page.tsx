@@ -10,7 +10,7 @@ import { TbEntity } from "thingsboard-api-client";
 import HistoryTable from "./components/history-table";
 import TelemetryTable from "./components/telemetry-table";
 
-const deviceId = "ef3dc260-8a21-11ee-ace3-afcb18c2767c";
+const deviceId = "704147a0-82b2-11ee-9abd-09c043ac25d0";
 const keys = "latitude,longitude";
 
 const DashboardPage = () => {
